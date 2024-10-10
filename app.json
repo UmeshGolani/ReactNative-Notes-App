@@ -1,0 +1,7 @@
+{
+  "name": "NoteTakingApp",
+  "displayName": "NoteTakingApp",
+  "plugins": [
+    "expo-secure-store"
+  ]
+}
